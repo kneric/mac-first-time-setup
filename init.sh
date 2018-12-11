@@ -92,19 +92,19 @@ brew cask install android-studio
 brew cask install vysor
 
 # NPM Global Packages
-npm install -g sequelize-cli
-npm install -g nodemon
-npm install -g pm2
-npm install -g create-react-app
-npm install -g create-react-native-app
-npm install -g react-native-cli
-npm install -g mocha
-npm install -g jest
-npm install -g firebase-tools
-npm install -g aws-sdk
-npm install -g vue-cli
-npm install -g express-generator
-npm install -g exp
+yarn global add sequelize-cli
+yarn global add nodemon
+yarn global add pm2
+yarn global add create-react-app
+yarn global add create-react-native-app
+yarn global add react-native-cli
+yarn global add mocha
+yarn global add jest
+yarn global add firebase-tools
+yarn global add aws-sdk
+yarn global add vue-cli
+yarn global add express-generator
+yarn global add exp
 
 # Cleanup
 brew cleanup
