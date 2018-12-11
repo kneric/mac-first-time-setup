@@ -60,7 +60,7 @@ brew cask install gimp
 
 # Browsers
 brew cask install google-chrome
-brew cask install firefox
+# brew cask install firefox
 
 # Communication
 brew cask install slack
@@ -84,12 +84,12 @@ brew cask install mongodb
 brew install yarn
 
 # PHP
-brew install php
+# brew install php
 
-# Android Development
-brew cask install android-sdk
-brew cask install android-studio
-brew cask install vysor
+# # Android Development
+# brew cask install android-sdk
+# brew cask install android-studio
+# brew cask install vysor
 
 # NPM Global Packages
 yarn global add sequelize-cli
